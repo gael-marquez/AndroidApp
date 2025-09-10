@@ -1,4 +1,4 @@
-#Screenshots de la aplicación
+# Screenshots de la aplicación
 
 ![Imagen de WhatsApp 2025-09-08 a las 16 45 33_13567571](https://github.com/user-attachments/assets/e273c0a7-48ac-44ef-a0ab-c18fc33d088a)
 
